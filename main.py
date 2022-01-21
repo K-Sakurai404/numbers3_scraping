@@ -35,7 +35,7 @@ df = pd.DataFrame(the_number_of, index=tousen_nums, columns=[""])
 
 st.title("ナン◯ーズ3出現回数")
 """
-### 第1回〜第2700回
+### 第1回〜第2700回分
 
 """
 st.write(
